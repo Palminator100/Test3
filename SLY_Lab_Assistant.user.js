@@ -26,7 +26,7 @@
 
 	//Used for pushing transactions to solana chain
 	let writeRPCs = [
-		'https://https://rpc.hellomoon.io/12a1932f-f069-49a7-ad44-4ca8148149d6',
+		'https://rpc.hellomoon.io/12a1932f-f069-49a7-ad44-4ca8148149d6',
 		'https://solana-api.syndica.io/access-token/WPoEqWQ2auQQY1zHRNGJyRBkvfOLqw58FqYucdYtmy8q9Z84MBWwqtfVf8jKhcFh/rpc',
 	];
 
